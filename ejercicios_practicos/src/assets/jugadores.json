@@ -1,0 +1,57 @@
+[
+	{
+	"firstName": "Fernando",
+	"lastName": "Muslera",
+	"expulsado": true
+	},
+	{
+	"firstName": "Diego",
+	"lastName": "Lugano",
+	"expulsado": false
+	},
+	{
+	"firstName": "Diego",
+	"lastName": "Godín",
+	"expulsado": true
+	},
+	{
+	"firstName": "Jorge",
+	"lastName": "Fucile",
+	"expulsado": false
+	},
+	{
+	"firstName": "Maxi",
+	"lastName": "Pereira",
+	"expulsado": false
+	},
+	{
+	"firstName": "Egidio",
+	"lastName": "Arévalo Ríos",
+	"expulsado": false
+	},
+	{
+	"firstName": "Diego",
+	"lastName": "Pérez",
+	"expulsado": false
+	},
+	{
+	"firstName": "Álvaro",
+	"lastName": "Pereira",
+	"expulsado": false
+	},
+	{
+	"firstName": "Luis",
+	"lastName": "Suárez",
+	"expulsado": true
+	},
+	{
+	"firstName": "Diego",
+	"lastName": "Forlán",
+	"expulsado": false
+	},
+	{
+	"firstName": "Edinson",
+	"lastName": "Cavani",
+	"expulsado": true
+	}
+]
